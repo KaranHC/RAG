@@ -36,3 +36,6 @@ ENV/
 # Distribution / packaging
 *.egg
 MANIFEST
+
+# Project-specific ignored directories
+self_corrective_rag/docs/
